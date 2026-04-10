@@ -35,5 +35,14 @@ This project focuses on analyzing the XYZ Store dataset using Microsoft Excel to
 - Applied formulas to derive insights    
 - Segmented data based on categories (e.g., region, product, customer)
 
+**3. Dashboard Creation**   
+- Designed an interactive Excel dashboard    
+- Added KPIs such as:    
+Total Sales    
+Total Orders     
+Profit Analysis    
+Sales by Region/Product    
+- Used slicers for dynamic filtering
+
 
 
