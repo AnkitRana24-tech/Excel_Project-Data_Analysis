@@ -24,3 +24,9 @@ This project focuses on analyzing the XYZ Store dataset using Microsoft Excel to
 
 ---
 
+**📊 Project Workflow**    
+**1. Data Cleaning**    
+- Removed duplicates and handled missing values    
+- Standardized data formats     
+- Ensured data consistency
+
