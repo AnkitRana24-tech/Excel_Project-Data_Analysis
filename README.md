@@ -30,3 +30,10 @@ This project focuses on analyzing the XYZ Store dataset using Microsoft Excel to
 - Standardized data formats     
 - Ensured data consistency
 
+**2. Data Analysis**    
+- Created Pivot Tables for summarizing large datasets    
+- Applied formulas to derive insights    
+- Segmented data based on categories (e.g., region, product, customer)
+
+
+
