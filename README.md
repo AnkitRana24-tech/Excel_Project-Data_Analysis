@@ -52,3 +52,9 @@ Sales by Region/Product
 - Highlighted areas of improvement in business performance.
 
 ---
+
+**📂 Project Structure**   
+├── Dataset.xlsx                # Raw dataset       
+├── Data Analysis.xlsx         # Cleaned data + analysis + dashboard      
+├── README.md                  # Project documentation       
+
