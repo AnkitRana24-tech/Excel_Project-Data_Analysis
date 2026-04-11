@@ -46,3 +46,7 @@ Sales by Region/Product
 
 ---
 
+**📈 Key Insights**    
+- Identified top-performing products and regions.    
+- Analyzed sales trends over time.    
+- Highlighted areas of improvement in business performance.
