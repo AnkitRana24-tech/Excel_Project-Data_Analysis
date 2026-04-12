@@ -61,6 +61,12 @@ Sales by Region/Product
 ---
 
 **▶️ How to Use**     
-Download the Excel files from this repository    
-Open the Data Analysis.xlsx file    
+1. Download the Excel files from this repository    
+2. Open the Data Analysis.xlsx file 
+3. Navigate through:    
+- Sheets for data cleaning and analysis     
+- Dashboard sheet for insights     
+4. Use slicers to interact with the dashboard
+
+
 
