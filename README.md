@@ -59,3 +59,8 @@ Sales by Region/Product
 ├── README.md                  # Project documentation       
 
 ---
+
+**▶️ How to Use**
+Download the Excel files from this repository    
+Open the Data Analysis.xlsx file    
+
