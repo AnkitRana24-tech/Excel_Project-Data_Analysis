@@ -60,7 +60,7 @@ Sales by Region/Product
 
 ---
 
-**▶️ How to Use**
+**▶️ How to Use**     
 Download the Excel files from this repository    
 Open the Data Analysis.xlsx file    
 
