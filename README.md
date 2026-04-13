@@ -76,5 +76,6 @@ Sales by Region/Product
 ---
 
 **💡 Future Improvements**     
-- Automate data cleaning using Power Query     
-- Connect Excel with live data sources     
+- Automate data cleaning using Power Query.     
+- Connect Excel with live data sources.     
+- Enhance dashboard with advanced visualizations.          
