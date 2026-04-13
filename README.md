@@ -75,4 +75,6 @@ Sales by Region/Product
 
 ---
 
-
+**💡 Future Improvements**     
+- Automate data cleaning using Power Query     
+- Connect Excel with live data sources     
