@@ -79,3 +79,5 @@ Sales by Region/Product
 - Automate data cleaning using Power Query.     
 - Connect Excel with live data sources.     
 - Enhance dashboard with advanced visualizations.          
+
+---
