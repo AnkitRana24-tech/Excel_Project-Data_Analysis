@@ -75,7 +75,7 @@ The Excel dashboard provides a clear and interactive view of business performanc
 - 📦 Order Volume Tracking     
 - 📍 Sales by Region     
 - 🛍️ Top Products Performance     
-- 📉 Profitability Insights
+- 📉 Profitability Insights     
 👉 Includes slicers for dynamic filtering, allowing users to explore data in real time.     
 
 ---
