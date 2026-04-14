@@ -70,6 +70,9 @@ Sales by Region/Product
 
 ---
 
+**📊 Dashboard Features**    
+The Excel dashboard provides a clear and interactive view of business performance, including:    
+
 **📸 Dashboard Preview**     
 <img width="1678" height="593" alt="Screenshot 2026-04-13 191704" src="https://github.com/user-attachments/assets/1636bb28-21db-4c44-b669-02ebcfedbffd" />     
 
