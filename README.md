@@ -88,4 +88,5 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ---
 
 **📬 Contact**    
-LinkedIn: [(LinkedIn Profile)](https://www.linkedin.com/in/ankit-rana-680819254?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: [(LinkedIn Profile)](https://www.linkedin.com/in/ankit-rana-680819254?utm_source=share_via&utm_content=profile&utm_medium=member_android)     
+- Email: ankitsrana0457@gmail.com
