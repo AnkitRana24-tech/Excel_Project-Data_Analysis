@@ -1,4 +1,4 @@
-**📊 XYZ Store Data Analysis (Excel Project)** 
+> **📊 XYZ Store Data Analysis (Excel Project)** 
 
 ---
 
