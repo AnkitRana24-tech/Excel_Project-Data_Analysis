@@ -10,7 +10,7 @@ This project focuses on analyzing the XYZ Store dataset using Microsoft Excel to
 **🎯 Objectives**   
 - Clean and preprocess raw dataset in Excel.   
 - Perform detailed data analysis using formulas and functions.    
-- Create interactive dashboards using charts and KPIs.    
+- Create interactive dashboard using charts and KPIs.    
 - Identify trends in sales, customers, and product performance.
 
 ---
