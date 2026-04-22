@@ -17,7 +17,7 @@ This project focuses on analyzing the XYZ Store dataset using Microsoft Excel to
 
 **🛠️ Tools & Skills Used**   
 - Microsoft Excel   
-- Data Cleaning & Transformation    
+- Data Cleaning and Transformation    
 - Pivot Tables & Pivot Charts   
 - Excel Functions (IF, VLOOKUP/XLOOKUP, SUMIFS, COUNTIFS, etc.)   
 - Data Visualization (Bar Charts, Line Charts, Pie Charts)    
