@@ -55,7 +55,7 @@ Sales by Region/Product
 ---
 
 **📂 Project Structure**   
-├── Dataset.xlsx                # Raw dataset       
+├── Dataset.xlsx               # Raw dataset       
 ├── Data Analysis.xlsx         # Cleaned data + analysis + dashboard      
 ├── README.md                  # Project documentation       
 
